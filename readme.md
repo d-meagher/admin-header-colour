@@ -11,7 +11,7 @@ A very simple WordPress plugin named "Admin Bar Colour". It changes the colour o
 
 1. Download the repository.
 2. Extract the zip file.
-3. Upload the extracted folder to your WordPress plugins directory (`wp-content/plugins`).
+3. Upload `admin-header-colours.php` to your WordPress plugins directory (`wp-content/plugins`).
 4. Activate the plugin through the 'Plugins' menu in WordPress.
 
 ## Usage
