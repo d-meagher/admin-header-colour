@@ -1,6 +1,6 @@
 # Admin Header Colours
 
-This repository contains a WordPress plugin named "Admin Bar Colour". It changes the colour of the admin bar based on the environment.
+A very simple WordPress plugin named "Admin Bar Colour". It changes the colour of the admin bar based on the environment.
 
 ## Features
 
